@@ -1,0 +1,11 @@
+{
+    "name": "Deliverect",
+    "alias": "deliverect",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Deliverect\\App\\Providers\\DeliverectServiceProvider"
+    ],
+    "files": []
+}
